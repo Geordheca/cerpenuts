@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".kundang"></activity>
+        <activity android:name=".kundang_halaman2"></activity>
+        <activity android:name=".kundang" />
         <activity android:name=".lutung_halaman2" />
         <activity android:name=".lutung" />
         <activity android:name=".MainActivity">

@@ -10,7 +10,12 @@
         android:id="@+id/textView3"
         android:layout_width="303dp"
         android:layout_height="522dp"
-        android:text=""
+        android:text="\n
+        Sejak ayah Malin meninggal, ibunya bekerja keras untuk menghidupi Malin. Ia membantu para nelayan membongkar ikan hasil tangkapan di pantai. Kadang, Malin ikut dengannya. Di sana, Malin bertemu dengan Saudagar Ali, salah satu orang kaya di kampung itu.
+        \n
+        Saudagar Ali telah menganggap Malin seperti anaknya sendiri. Beliau mengajari Malin cara berdagang dan mengemudikan kapal. Bagi Saudagar Ali, Malin cerdas dan dewasa, tidak seperti anak kecil pada umumnya.
+        \n
+        Ketika Malin beranjak dewasa, Saudagar Ali mengajaknya untuk ikut berlayar ke negeri seberang. Di sana, ia akan mengenalkan Malin pada saudaranya yang juga memiliki usaha perdagangan"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="136dp" />
