@@ -15,7 +15,8 @@
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/lutung" />
+        app:srcCompat="@drawable/lutung"
+        android:onClick="lutung"/>
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
