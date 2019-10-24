@@ -6,4 +6,19 @@
     android:layout_height="match_parent"
     tools:context=".lutung_halaman2">
 
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="355dp"
+        android:layout_height="547dp"
+        android:text="\n
+        Walaupun cantik Purbararang sangat kasar, sombong, kejam dan iri hati terhadap siapapun juga.
+        \n
+        Setelah bertahta dalam waktu yang cukup lama, Prabu Tapa Agung berniat turun tahta. Telah dipikirkan masak-masak, bahwa untuk melanjutkan kepemimpinannya dia akan menunjuk Purbasari.
+        \n
+        Sang Prabu telah mengamati selama puluhan tahun bahwa Purbasari adalah sosok yang paling pantas menggantikannya, bukan Purbararang walaupun Purbararang adalah anak sulungnya.
+        \n
+        Pemikirian dari sang Prabu yang bijaksana ini terutama karena sifat dan perilaku anak sulungnya yang buruk. Prabu Tapa agung khawatir, jika Purbararang menjadi Raja maka ketentraman dan kedamaian kehidupan rakyat akan terganggu dan bahkan menjadi rusak akibat kepemimpinan Purbararang yang memiliki sifat sangat buruk."
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="114dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
