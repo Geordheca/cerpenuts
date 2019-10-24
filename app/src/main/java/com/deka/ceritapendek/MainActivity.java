@@ -18,4 +18,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent (this,lutung.class);
         startActivity(intent);
     }
+
+    public void kundang(View view) {
+        Intent intent = new Intent(this, kundang.class);
+        startActivity(intent);
+    }
 }

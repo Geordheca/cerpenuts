@@ -10,10 +10,13 @@
         android:id="@+id/textView"
         android:layout_width="356dp"
         android:layout_height="533dp"
+        android:fontFamily="sans-serif-condensed-medium"
         android:text="\n
         Pada zaman dahulu kala hiduplah seorang putri bernama Purbasari. Dia merupakan anak bungsu dari Prabu Tapa Agung yang merupakan raja kerajaan pasir batang. \n
         Purbasari memiliki enam orang kakak perempuan yaitu Purbararang, Purbadewata, Purbaendah, Purbakancana, Purbamanik dan Purbaleuih. Purbasari sangat baik sifat dan kelakuannya.\n
         Dia lembut, manis budi, ddan suka menolong. Siapapun juga yang membutuhkan pertolongan dengan senang hati dibantunya. Selain hatinya yang elok, Purbasari juga memiliki paras yang cantik dan rupawan, setiap orang yang melihatnya pasti jatuh hati pada pandangan pertama. Sayangnya kecantikan dan kebaikan hati purbasari tidak menurun dari kakak sulungnya Purbararang yang berperangai sangat buruk."
+        android:textAlignment="center"
+        android:textColor="#F8000000"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

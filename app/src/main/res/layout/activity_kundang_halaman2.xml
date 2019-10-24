@@ -17,6 +17,7 @@
         \n
         Mula-mula kakinya tak bisa digerakkan. Istrinya berteriak, Malin, apa yang terjadi pada kakimu? Kakimu seperti batu! Rupanya tak hanya kakinya yang menjadi batu, perlahan- lahan seluruh tubuhnya juga jadi batu. Malin sangat ketakutan. Ia sadar ini adalah hukuman Tuhan atas perbuatannya. Bunda, ampuni aku. Tolong selamatkan aku Bunda... teriaknya. Namun semuanya sudah terlambat. Seluruh tuhuh Malin akhirnya jadi batu.
         Mulutnya menganga karena ia berteriak mohon ampun. Ibunya menangis, istri Malin pun menangis. Mereka berdua memeluk Malin yang sudah jadi patung."
+        android:textAlignment="center"
         android:textSize="18sp"
         tools:layout_editor_absoluteX="34dp"
         tools:layout_editor_absoluteY="16dp" />

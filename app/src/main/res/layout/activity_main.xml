@@ -10,13 +10,13 @@
         android:id="@+id/imageView"
         android:layout_width="310dp"
         android:layout_height="271dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="80dp"
+        android:onClick="lutung"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/lutung"
-        android:onClick="lutung"/>
+        app:srcCompat="@drawable/lutung" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
@@ -33,5 +33,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
-        app:srcCompat="@drawable/kundang" />
+        app:srcCompat="@drawable/kundang"
+        android:onClick="kundang"/>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="261dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="casual"
+        android:text="Cerita Pendek \nLegenda"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

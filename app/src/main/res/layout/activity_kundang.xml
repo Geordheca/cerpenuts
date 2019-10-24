@@ -16,7 +16,8 @@
         Saudagar Ali telah menganggap Malin seperti anaknya sendiri. Beliau mengajari Malin cara berdagang dan mengemudikan kapal. Bagi Saudagar Ali, Malin cerdas dan dewasa, tidak seperti anak kecil pada umumnya.
         \n
         Ketika Malin beranjak dewasa, Saudagar Ali mengajaknya untuk ikut berlayar ke negeri seberang. Di sana, ia akan mengenalkan Malin pada saudaranya yang juga memiliki usaha perdagangan"
+        android:textAlignment="center"
         android:textSize="18sp"
-        tools:layout_editor_absoluteX="61dp"
-        tools:layout_editor_absoluteY="136dp" />
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="133dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
